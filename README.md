@@ -10,7 +10,7 @@ const nbadnjarevic = {
         devOps: ["Docker🐳", "Spring Cloud"],
         databases: ["MongoDB", "Oracle SQL"],
     },
-    currently: "Learning Rust"
+    currently: "Participating in Advent of Code"
 };
 ```
 
