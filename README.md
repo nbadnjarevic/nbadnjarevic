@@ -4,13 +4,13 @@ Software Developer at [MozzartBet](https://mozzartbet.com) 🧑‍💻
 ```javascript
 const nbadnjarevic = {
     code: ["Java", "Python", "JavaScript"],
-    askMeAbout: ["Backend Web Development", "Tech", "Java", "Python one-liners 🍝"],
+    askMeAbout: ["Backend Web Development", "Java", "Python one-liners 🍝"],
     technologies: {
         backEnd: ["Spring Boot"],
         devOps: ["Docker🐳", "Spring Cloud"],
         databases: ["MongoDB", "Oracle SQL"],
     },
-    currently: "Participating in Advent of Code"
+    currently: "Attending the Spring I/O 2025 developer conference in Barcelona"
 };
 ```
 
